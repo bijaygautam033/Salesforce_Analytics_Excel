@@ -64,6 +64,16 @@ Expected Amount is $184.14M
 
 ![Capture](https://user-images.githubusercontent.com/117027162/214711405-2974c9e3-45b8-4426-841c-c42eac63e449.PNG)
 
+* Converted accounts are high in 2020 but significantly values are dropped in 2021 due to global pandemic.
+
+![image](https://user-images.githubusercontent.com/117027162/220794926-b937ca5f-dba5-427e-b144-f677dc9b833d.png)
+
+* Maximum converted opportunities can be seen in 2020 but again 2021 there is drop in the values due to global pandemic.
+
+![image](https://user-images.githubusercontent.com/117027162/220795214-7ac60a92-3910-4489-9f3e-38c09c17c9d3.png)
+
+
+
 * **Overview**
 
 
